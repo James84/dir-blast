@@ -1,0 +1,5 @@
+E:\Dropbox\ProgrammerStuff\Back End\FileTools\FileTools\bin\Debug\FileTools.dll
+E:\Dropbox\ProgrammerStuff\Back End\FileTools\FileTools\bin\Debug\FileTools.pdb
+E:\Dropbox\ProgrammerStuff\Back End\FileTools\FileTools\obj\Debug\FileTools.csprojResolveAssemblyReference.cache
+E:\Dropbox\ProgrammerStuff\Back End\FileTools\FileTools\obj\Debug\FileTools.dll
+E:\Dropbox\ProgrammerStuff\Back End\FileTools\FileTools\obj\Debug\FileTools.pdb
