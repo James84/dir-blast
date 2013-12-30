@@ -1,0 +1,6 @@
+E:\CleanTempFiles\CleanTempFiles\bin\Debug\CleanTempFiles.exe.config
+E:\CleanTempFiles\CleanTempFiles\bin\Debug\CleanTempFiles.exe
+E:\CleanTempFiles\CleanTempFiles\bin\Debug\CleanTempFiles.pdb
+E:\CleanTempFiles\CleanTempFiles\obj\Debug\CleanTempFiles.csprojResolveAssemblyReference.cache
+E:\CleanTempFiles\CleanTempFiles\obj\Debug\CleanTempFiles.exe
+E:\CleanTempFiles\CleanTempFiles\obj\Debug\CleanTempFiles.pdb
